@@ -32,7 +32,7 @@ class PlacesViewController: UITableViewController {
             
             places.remove(at: 0)
             
-            places.append(["name": "London Bridge","lat":"51.507837", "lon": "-0.087738"])
+            places.append(["name": "London Bridge","lat":"51.507837", "lon ": "-0.087738"])
         }
         
         activePlace = -1
